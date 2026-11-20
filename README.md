@@ -1,16 +1,25 @@
-## Hi there 👋
+# Fenfig
 
-<!--
-**fenfigofficial/fenfigofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Integrated business solutions for global enterprises
 
-Here are some ideas to get you started:
+**Step to growth.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fenfig brings strategy, growth, brand, technology and talent together under one roof, so organizations plan, grow and scale with one accountable partner.
+
+## What we do
+
+**Strategy and Advisory** - business planning, investment analysis and market entry.
+
+**Growth, Sales and Marketing** - go-to-market, sales strategy and demand generation.
+
+**Brand and Experience** - brand identity, design and customer experience.
+
+**Technology and Digital** - enterprise software, platforms, integration and automation.
+
+**People and Operations** - operating models, process design and team training.
+
+## Connect
+
+[YouTube](https://www.youtube.com/@fenfig) | [X](https://x.com/fenfigofficial) | [Facebook](https://www.facebook.com/fenfigofficial) | [Pinterest](https://www.pinterest.com/fenfigofficial/) | [Threads](https://www.threads.com/@fenfigofficial) | [TikTok](https://www.tiktok.com/@fenfigofficial)
+
+Email: fenfig1@gmail.com
